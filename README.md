@@ -28,15 +28,11 @@ To use this Currency Converter in your project, follow these steps:
 
 ### 1. Clone or download the project repository.
 
-```git clone https://github.com/NevilPatel01/currency-converter.git
-
-```
+`git clone https://github.com/NevilPatel01/currency-converter.git`
 
 ### 2. Install dependencies.
 
-```npm install
-
-```
+`npm install`
 
 ## API
 
